@@ -1,4 +1,4 @@
-gmail-pretty-print
+Gmail Pretty Print
 ==================
 
 Strip the logo and email header/footer crap when printing from Gmail. Nothing more, nothing less.
